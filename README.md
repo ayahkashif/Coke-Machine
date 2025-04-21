@@ -8,3 +8,4 @@ Vending machine indicates the price, amount due, and the amount of change is owe
 - Outputs how many cents in change the user is owed once the inputs are at least 50 cents. <br/><br/>
 
 ## 🪙 Demo
+<img src="https://github.com/ayahkashif/Coke-Machine/blob/main/demo.png" width="351" height="325">
